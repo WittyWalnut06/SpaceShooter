@@ -2,8 +2,9 @@ Hi There!
 This folder contains all the assets, prefabs and Typescript code for the game SpaceShooter.
 
 #Control the spaceship by holding down left mouse. 
-#Don't crash into incoming asteroids. 
+#Don't crash into incoming asteroids. Collect power-ups. 
 #Collect coins by destroying asteroids to get nifty upgrades.
+#Play through 3 Levels with difficulty being increased on each level.
 
 **THIS GAME CAN ONLY BE PLAYED ON PC**
 Here's the link for the web-desktop-app: https://lambent-donut-2fe029.netlify.app
