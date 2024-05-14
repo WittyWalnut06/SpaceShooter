@@ -1,5 +1,6 @@
 Hi There!
 This folder contains all the assets, prefabs and Typescript code for the game SpaceShooter.
+All the 2d Sprites were drawn in aseprite.
 
 #Control the spaceship by holding down left mouse. 
 #Don't crash into incoming asteroids. Collect power-ups. 
